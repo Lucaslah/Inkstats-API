@@ -1,2 +1,2 @@
 # Inkstatus-API
-The API for Inkstatus
+The API for Inkstats-v2
